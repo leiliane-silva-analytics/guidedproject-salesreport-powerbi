@@ -3,7 +3,7 @@
 ### Introduction: This project is a sales analysis performed using Excel and Power BI as part of a guided course. The goal was to explore sales data, identify trends, and create visualizations that help in decision-making.
 
 ### Tools Used / Database
-- Excel: To access the Fact and Dimension databases. [List of Tables](./data/List_Excel_Databases.png) and [Sample](./data/Samples_Excel_Databases.pdf)
+- Excel: To access the Fact and Dimension databases. ([List of Tables](./data/List_Excel_Databases.png) and [Sample](./data/Samples_Excel_Databases.pdf))
 - Power BI: For data transformation, relationship generation, calculations and creation of interactive reports.
 
 ### Project Stages
